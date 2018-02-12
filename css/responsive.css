@@ -61,7 +61,11 @@
   }
 
   .border-right {
-    border: none;s
+    border: 0;
+  }
+
+  #details div {
+    height: auto;
   }
 
 }
